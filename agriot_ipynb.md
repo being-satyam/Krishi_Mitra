@@ -10,9 +10,9 @@ import getpass
 
 
 # Twilio configuration
-TWILIO_ACCOUNT_SID = 'ACe88612e770442dd36c12ccb74c8c6acf'
-TWILIO_AUTH_TOKEN = 'd8ac8c8607a0ec131c71ed71ec8b3e25'
-TWILIO_FROM_NUMBER = '+12062076115'
+TWILIO_ACCOUNT_SID = '***************'
+TWILIO_AUTH_TOKEN = '********'
+TWILIO_FROM_NUMBER = '***********'
 TWILIO_TO_NUMBER = '+916201609470'
 
 # Bolt configuration
